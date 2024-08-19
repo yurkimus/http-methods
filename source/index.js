@@ -7,4 +7,5 @@ export var HttpMethods = /** @type {const} */ ({
   Connect: "CONNECT",
   Options: "OPTIONS",
   Trace: "TRACE",
+  Patch: "PATCH",
 });

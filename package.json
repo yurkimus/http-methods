@@ -1,6 +1,6 @@
 {
   "type": "module",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "name": "@yurkimus/http-methods",
   "author": {
     "name": "yurkimus",
@@ -11,8 +11,5 @@
     "url": "https://github.com/yurkimus/http-methods.git"
   },
   "types": "./source/index.d.ts",
-  "exports": "./source/index.js",
-  "scripts": {
-    "generate-type-definitions": "npx tsc --declaration --emitDeclarationOnly --allowJs --outFile source/index.d.ts source/*"
-  }
+  "exports": "./source/index.js"
 }
