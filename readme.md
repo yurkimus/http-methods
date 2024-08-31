@@ -2,7 +2,7 @@
 
 Listing of RFC2616 HTTP methods
 
-All the methods are coming from
+Methods are coming from
 [RFC2616/5.1.1](https://www.rfc-editor.org/rfc/rfc2616#section-5.1.1)
 
 ## Table of Contents
@@ -41,7 +41,9 @@ npm install @yurkimus/http-methods
 #### Definition:
 
 ```
-HttpMethods :: Object { <name> => <http method> }
+HttpMethods :: Object {
+  <name> => <HTTP method>
+}
 ```
 
 #### Example:
