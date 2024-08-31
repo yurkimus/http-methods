@@ -1,6 +1,6 @@
 {
   "type": "module",
-  "version": "0.0.4",
+  "version": "0.0.6",
   "name": "@yurkimus/http-methods",
   "author": {
     "name": "yurkimus",
@@ -10,6 +10,5 @@
     "type": "git",
     "url": "https://github.com/yurkimus/http-methods.git"
   },
-  "types": "./source/index.d.ts",
   "exports": "./source/index.js"
 }
